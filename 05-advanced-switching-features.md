@@ -364,4 +364,4 @@ Management VLAN 99 is created on the core switches, and each switch receives a d
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [Inter-VLAN Routing and OSPF](06-inter-vlan-routing-and-ospf.md)
