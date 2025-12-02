@@ -196,4 +196,4 @@ This chapter explains how the internal network uses NAT and PAT to reach externa
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [Wireshark Monitoring](09-wireshark-monitoring.md)
