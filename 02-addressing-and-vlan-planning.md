@@ -66,4 +66,4 @@ The point-to-point link toward the ISP keeps internal routing independent from t
 
 <br>
 
-**Next part:**
+**Next part:** [Basic Device Configuration](03-basic-device-configuration.md)
