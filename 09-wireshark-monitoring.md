@@ -323,4 +323,4 @@ Both OSPF captures demonstrate stable neighbor relationships on the routed link 
 
 <br>
 
-**Next part:**
+**Next part:** [Network Security](10-network-security.md)
