@@ -666,4 +666,4 @@ These configurations complete the fundamental Layer 2 segmentation of the networ
 
 <br>
 
-**Next part:**
+**Next part:** [Advanced Switching Features](05-advanced-switching-features.md)
