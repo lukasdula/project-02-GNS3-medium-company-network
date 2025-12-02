@@ -109,4 +109,4 @@ The following chapter -> **02-addressing-and-vlan-planning**, introduces the sub
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
