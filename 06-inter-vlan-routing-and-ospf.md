@@ -459,4 +459,4 @@ Finally, a default route on R1 and a return route on the ISP prepare the network
 
 <br>
 
-**Next part:**
+**Next part:** [Core Server Services](07-core-server-services.md)
