@@ -12,7 +12,7 @@ This part defines the baseline configuration applied to all core routing and swi
 
 ## **3.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251124000847.png)
+![](images/Pasted%image%20251202232911.png)
 
 <br>
 
