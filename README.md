@@ -38,18 +38,18 @@ Zones clearly define device roles and which parts of the network communicate tog
 
 ## **Project Structure**
 
-1. Network Topology and Devices
-2. Addressing and VLAN Planning
-3. Basic Device Configuration
-4. VLAN and Trunk Configuration
-5. Advanced Switching Features
-6. Inter-VLAN Routing and OSPF
-7. Core Server Services
-8. NAT/PAT and External Connectivity
-9. Wireshark Monitoring
-10. Network Security
-11. Troubleshooting
-12. Conclusion and Summary
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
+3. [Basic Device Configuration](03-basic-device-configuration.md)
+4. [VLAN and Trunk Configuration](04-vlan-and-trunk-configuration.md)
+5. [Advanced Switching Features](05-advanced-switching-features.md)
+6. [Inter-VLAN Routing and OSPF](06-inter-vlan-routing-and-ospf.md)
+7. [Core Server Services](07-core-server-services.md)
+8. [NAT/PAT and External Connectivity](08-nat-pat-configuration.md)
+9. [Wireshark Monitoring](09-wireshark-monitoring.md)
+10. [Network Security](10-network-security.md)
+11. [Troubleshooting](11-troubleshooting.md)
+12. [Conclusion and Summary](12-conclusion-and-summary.md)
 
 <br>
 
