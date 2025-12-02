@@ -356,4 +356,4 @@ Connectivity checks confirm that router interfaces operate correctly and that po
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [VLAN and Trunk Configuration](04-vlan-and-trunk-configuration.md)
