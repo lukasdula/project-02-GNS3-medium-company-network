@@ -819,4 +819,4 @@ The chapter establishes the essential network services on the Xubuntu Server. DH
 <br>
 
 
-**Next chapter:** 
+**Next chapter:** [NAT/PAT and External Connectivity](08-nat-pat-configuration.md)
