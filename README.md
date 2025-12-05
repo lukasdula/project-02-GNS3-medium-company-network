@@ -58,6 +58,7 @@ Zones clearly define device roles and which parts of the network communicate tog
 
 - VLAN segmentation and trunk links across all switches
 - Inter-VLAN routing with subinterfaces
+- Switching features including STP, RSTP, PortFast, and BPDU behavior
 - OSPF single-area internal routing with VLAN 99 as backup path
 - DHCP relay for all VLANs
 - DNS and HTTP services on Linux
