@@ -200,6 +200,7 @@ write
 PortFast is successfully enabled on the selected access ports. Host connections transition directly to the forwarding state without waiting for the standard STP listening and learning phases.
 
 <br>
+
 ## **5.8 Configure BPDU Guard on Edge Ports**
 
 
