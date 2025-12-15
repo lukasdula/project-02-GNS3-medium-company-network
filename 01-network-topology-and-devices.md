@@ -5,7 +5,7 @@
 
 <br>
 
-## **1.1  Network Topology and Devices**
+## **1.1  Introduction**
 
 This first chapter introduces the structured medium-sized company network used in this project. The design organizes all hosts, servers and user groups into separate logical zones, each connected through two core routers. Switching, routing and basic services follow a clear layout so that every part of the environment has a defined role.
 
