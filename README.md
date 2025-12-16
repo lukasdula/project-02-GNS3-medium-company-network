@@ -16,7 +16,7 @@ This project also demonstrates practical work with GNS3 VM integration, Cisco IO
 
 ## **Topology Diagram**
 
-![](images/Pasted%20image%2020251202222432.png)
+![topology-diagram](images/Pasted%20image%2020251216010256.png)
 
 
 <br>
