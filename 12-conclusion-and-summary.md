@@ -22,7 +22,7 @@ This network provides a strong model for expanding into more advanced routing se
 
 ## **Project Overview**
 
-1. **Network Topology and Devices****: The network includes two routers, multiple Layer 2 switches, an internal server and several clients. VLANs separate user groups, server infrastructure and management.
+1. **Network Topology and Devices**: The network includes two routers, multiple Layer 2 switches, an internal server and several clients. VLANs separate user groups, server infrastructure and management.
     
 2. **Addressing and VLAN Planning**: Each VLAN uses a dedicated /24 IPv4 subnet. Router-to-router links use /30 addressing. VLAN 99 defines management and OSPF transit.
     
