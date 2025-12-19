@@ -79,9 +79,9 @@ The topology is divided into the following areas:
 | R2             | Gi0/2         | SW2                | Gi0/2              | Core uplink for admin access segment.                         |
 | R2             | Gi0/3         | SW3                | Gi0/3              | Core uplink for executive and development segments.           |
 | **SW1**        | Gi0/0         | Xubuntu-Server     | e0                 | Access link for internal server VM.                           |
-| SW1            | Gi0/3         | SW2                | Gi0/3              | Redundant switch-to-switch link (STP).                        |
+| SW1            | Gi0/3         | SW2                | Gi0/3              | Redundant switch-to-switch link (RSTP).                        |
 | **SW2**        | Gi0/0         | Xubuntu-Admin      | e0                 | Access link for admin workstation.                            |
-| SW2            | Gi0/3         | SW1                | Gi0/3              | Redundant switch-to-switch link (STP).                        |
+| SW2            | Gi0/3         | SW1                | Gi0/3              | Redundant switch-to-switch link (RSTP).                        |
 | **SW3**        | Gi0/0         | PC1-Executive      | e0                 | Access link for executive workstation.                        |
 | SW3            | Gi0/1         | PC2-Development    | e0                 | Access link for development workstation.                      |
 | SW3            | Gi0/2         | PC3-Development    | e0                 | Access link for development workstation.                      |
