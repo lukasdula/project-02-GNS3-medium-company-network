@@ -61,7 +61,7 @@ Zones clearly define device roles and which parts of the network communicate tog
 - Switching features including RSTP, PortFast, and BPDU behavior
 - OSPF single-area internal routing with VLAN 99 as backup path
 - DHCP relay for all VLANs
-- DNS and HTTP services on Linux
+- DNS(Bind 9) and HTTP services on Linux
 - NAT/PAT translation for outbound traffic
 - Port security and administrative hardening
 - ACL-based segmentation between VLANs
