@@ -432,10 +432,6 @@ ip route 0.0.0.0 0.0.0.0 10.32.0.1
 R2 now forwards all unknown traffic to R1 via the transit network 10.32.0.0/30. Devices in VLAN 20, 30 and 40 can reach the ISP router and the Internet Host after NAT/PAT is applied on R1.
 
 
-### **Results**
-
-R1 forwards all external traffic toward the ISP using the default route. The ISP returns internal traffic toward R1 using the static route for the 10.32.0.0/16 network. Full bidirectional connectivity is prepared for NAT/PAT in a later chapter.
-
 ### **Verification**
 
 ```
