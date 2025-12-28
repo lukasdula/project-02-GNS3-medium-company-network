@@ -75,6 +75,8 @@ Zones clearly define device roles and which parts of the network communicate tog
 
 
 - **GNS3 version 2.2.54**
+
+- **Wireshark Version 4.2.2**
     
 - **Xubuntu VM** (kernel-based QEMU virtual machine inside GNS3)
     
