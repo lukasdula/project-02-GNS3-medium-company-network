@@ -22,27 +22,38 @@ This network provides a strong model for expanding into more advanced routing se
 
 ## **Project Overview**
 
-1. **Network Topology and Devices**: The network includes two routers, multiple Layer 2 switches, an internal server and several clients. VLANs separate user groups, server infrastructure and management.
+1. [Network Topology and Devices](01-network-topology-and-devices.md):
+The network includes two routers, multiple Layer 2 switches, an internal server and several clients. VLANs separate user groups, server infrastructure and management.
     
-2. **Addressing and VLAN Planning**: Each VLAN uses a dedicated /24 IPv4 subnet. Router-to-router links use /30 addressing. VLAN 99 defines management and OSPF transit.
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md):
+Each VLAN uses a dedicated /24 IPv4 subnet. Router-to-router links use /30 addressing. VLAN 99 defines management and OSPF transit.
     
-3. **Basic Device Configuration**: Hostnames, interface addressing and administrative settings define the base layer of connectivity.
+3. [Basic Device Configuration](03-basic-device-configuration.md): 
+Hostnames, interface addressing and administrative settings define the base layer of connectivity.
     
-4. **VLAN and Trunk Configuration**: All switches create VLANs and assign access and trunk ports according to the design.
+4. [VLAN and Trunk Configuration](04-vlan-and-trunk-configuration.md): 
+All switches create VLANs and assign access and trunk ports according to the design.
     
-5. **Advanced Switching Features**: STP ensures loop-free switching, trunk links carry multiple VLANs reliably and MAC learning maintains stable Layer 2 forwarding.
+5. [Advanced Switching Features](05-advanced-switching-features.md): 
+STP ensures loop-free switching, trunk links carry multiple VLANs reliably and MAC learning maintains stable Layer 2 forwarding.
     
-6. **Inter-VLAN Routing and OSPF**: R1 and R2 use 802.1Q subinterfaces to route between all VLANs, and OSPF maintains dynamic routing across the /30 link and VLAN 99 transit path.
+6. [Inter-VLAN Routing and OSPF](06-inter-vlan-routing-and-ospf.md): 
+R1 and R2 use 802.1Q subinterfaces to route between all VLANs, and OSPF maintains dynamic routing across the /30 link and VLAN 99 transit path.
     
-7. **Core Server Services**: Xubuntu Server provides DNS, DHCP and HTTP services. R2 forwards DHCP broadcasts using relay.
+7. [Core Server Services](07-core-server-services.md): 
+Xubuntu Server provides DNS, DHCP and HTTP services. R2 forwards DHCP broadcasts using relay.
     
-8. **NAT/PAT and External Configuration**: R1 translates internal IPv4 addresses to the public address on the ISP-connected interface.
+8. [NAT/PAT and External Connectivity](08-nat-pat-configuration.md): 
+R1 translates internal IPv4 addresses to the public address on the ISP-connected interface.
     
-9. **Wireshark Monitoring**: Packet captures validate ICMP, DNS, ARP, TCP flows and NAT/PAT translation.
+9. [Wireshark Monitoring](09-wireshark-monitoring.md): 
+Packet captures validate ICMP, DNS, ARP, TCP flows and NAT/PAT translation.
     
-10. **Network Security**: basic security, Port security protects access ports, SSH and passwords secure management, and ACLs control VLAN communication while keeping server and admin access available.
+10. [Network Security](10-network-security.md): 
+basic security, Port security protects access ports, SSH and passwords secure management, and ACLs control VLAN communication while keeping server and admin access available.
     
-11. **Troubleshooting**: Routing, SVI configuration and DHCP relay faults are identified, fixed and verified.
+11. [Troubleshooting](11-troubleshooting.md): 
+Routing, SVI configuration and DHCP relay faults are identified, fixed and verified.
     
 
 
