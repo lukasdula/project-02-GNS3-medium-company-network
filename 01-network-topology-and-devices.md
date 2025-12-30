@@ -54,10 +54,10 @@ The topology is divided into the following areas:
 
 | **Device**       | **Image / Type** | **Interfaces**     | **Access** | **Purpose**                                                 |
 | ---------------- | ---------------- | ------------------ | ---------- | ----------------------------------------------------------- |
-| Router R1        | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Core routing device; inter-VLAN routing; uplink to ISP.     |
-| Router R2        | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Secondary routing device; distribution for access switches. |
-| ISP Router       | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Point-to-point link to R1 and simulated WAN access.         |
-| Switches SW1–SW5 | Cisco IOSv-L2    | 4x GigabitEthernet | Telnet     | Layer 2 switching; access ports and trunk links.            |
+| Router R1        | Cisco IOSv       | 6x GigabitEthernet | Console    | Core routing device; inter-VLAN routing; uplink to ISP.     |
+| Router R2        | Cisco IOSv       | 6x GigabitEthernet | Console    | Secondary routing device; distribution for access switches. |
+| ISP Router       | Cisco IOSv       | 6x GigabitEthernet | Console    | Point-to-point link to R1 and simulated WAN access.         |
+| Switches SW1–SW5 | Cisco IOSv-L2    | 4x GigabitEthernet | Console    | Layer 2 switching; access ports and trunk links.            |
 | Xubuntu-Admin    | QEMU Xubuntu VM  | 1x GigabitEthernet | VNC        | Administration workstation for network management.          |
 | Xubuntu-Server   | QEMU Xubuntu VM  | 1x GigabitEthernet | VNC        | Internal server for DHCP, DNS and HTTP                      |
 | PC1–PC7          | VPCS Hosts       | 1x Ethernet        | Console    | Workstations placed in VLANs.                               |
