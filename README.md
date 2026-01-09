@@ -5,11 +5,12 @@
 
 ## **Introduction and Objectives**
 
-This next project created in GNS3 presents a medium-sized company network infrastructure. It expands on my earlier work and demonstrates a more advanced, multi-layer topology using dynamic routing, segmented VLAN design, Linux-based internal services and structured security policies. The goal is to model a realistic company environment where routing, switching, server services and access control operate together as one stable system.
+**This Cisco-based project created in GNS3 presents a medium-sized company network infrastructure.** It expands on my earlier work and demonstrates a more advanced, multi-layer topology using dynamic routing, segmented VLAN design, Linux-based internal services and structured security policies. The goal is to model a realistic company environment where routing, switching, server services and access control operate together as one stable system.
 
 The network uses VLAN segmentation with inter-VLAN routing via subinterfaces, OSPF single-area routing, DHCP relay, local DNS and HTTP services hosted on Xubuntu Server, NAT/PAT for external connectivity and a set of layered security controls including port security, advanced ACL-based segmentation and device hardening. VLAN 99 functions not only as the management network but also as the OSPF backup path if the primary point-to-point link between R1 and R2 fails, OSPF automatically shifts adjacency to VLAN 99 and restores full routing, ensuring continuous inter-VLAN communication. The project also incorporates advanced switching features such as RSTP operation, PortFast for edge ports and BPDU handling, reflecting realistic Layer 2 behavior in enterprise environments. Troubleshooting tasks were included intentionally to simulate real operational issues.
 
 This project also demonstrates practical work with GNS3 VM integration, Cisco IOSv and IOSv-L2 appliances, Linux server configuration and structured diagnostics across the entire topology.
+
 
 <br>
 
