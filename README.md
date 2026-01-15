@@ -15,7 +15,7 @@ VLAN 99 is used for management and as an OSPF backup path. If the primary point-
 
 The design also includes RSTP, PortFast on edge ports, controlled BPDU handling, and intentionally added troubleshooting scenarios to reflect realistic Layer 2 operation. The project further demonstrates practical work with GNS3 VM integration, Cisco IOSv and IOSv-L2 appliances, Linux server configuration, and structured diagnostics across the topology.
 
-This project also demonstrates practical work with GNS3 VM integration, Cisco IOSv and IOSv-L2 appliances, Linux server configuration and structured diagnostics across the entire topology.
+
 
 
 <br>
