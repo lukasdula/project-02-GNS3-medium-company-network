@@ -11,7 +11,7 @@ This first chapter introduces the structured medium-sized company network used i
 
 All internal segments connect to the core routing layer, which provides inter-VLAN routing and forwards external traffic to the ISP. The following sections describe the topology diagram, network zones, device list and all physical connections used in this project.
 
->**Note.:** Due to limitations of Cisco virtual switch images in GNS3, the lab uses a reduced number of switch interfaces. The same configuration logic is applied across the network.
+>**Note.:** Due to limitations of Cisco virtual switch images in GNS3, the lab uses a reduced number of switch interfaces. This configuration logic is applied across the network.
 
 <br>
 
