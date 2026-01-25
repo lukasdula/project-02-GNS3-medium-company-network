@@ -28,6 +28,10 @@ The topology is divided into the following areas:
 - **ISP and internet access**
     
 - **Core routing layer** (R1 and R2)
+
+- ** Distribution ZONE** (SW1 and SW2)
+
+- ** Acccess ZONE** (SW3,SW4 and SW5)
     
 - **Administration zone** (Xubuntu-Admin)
     
