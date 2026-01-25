@@ -10,8 +10,7 @@ This chapter provides a practical packet-level view of how the network behaves a
 
 ## **9.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251127023510.png)
-
+![](images/Pasted%20image%2020260125065152.png)
 
 <br>
 
