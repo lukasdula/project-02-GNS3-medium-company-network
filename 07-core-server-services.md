@@ -11,7 +11,7 @@ This chapter defines the core server services that support the internal network.
 
 ## **7.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251125221236.png)
+![](images/Pasted%20image%2020260125064638.png)
 
 <br>
 
