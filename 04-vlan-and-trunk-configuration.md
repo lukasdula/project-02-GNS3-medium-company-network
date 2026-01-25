@@ -12,7 +12,7 @@ This chapter defines the VLAN structure and trunking configuration for the mediu
 
 ## **4.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251124153410.png)
+![](images/Pasted%20image%2020260125063508.png)
 
 
 <br>
