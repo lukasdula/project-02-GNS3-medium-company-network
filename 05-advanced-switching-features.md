@@ -11,7 +11,7 @@ This chapter introduces the advanced Layer 2 switching features used to improve 
 
 ## **5.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251124192517.png)
+![](images/Pasted%20image%2020260125064042.png)
 
 <br>
 
