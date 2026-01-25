@@ -12,7 +12,7 @@ This chapter defines how the company internal IPv4 networks use Network Address 
 
 ## **8.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251127024214.png)
+![](images/Pasted%20image%2020260125064856.png)
 
 
 <br>
