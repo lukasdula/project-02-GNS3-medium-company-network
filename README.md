@@ -23,7 +23,7 @@ The design also includes RSTP, PortFast on edge ports, controlled BPDU handling,
 
 ## **Topology Diagram**
 
-![topology-diagram](images/Pasted%20image%2020251216010256.png)
+![](images/Pasted%20image%2020260125061852.png)
 
 
 <br>
