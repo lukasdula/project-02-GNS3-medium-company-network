@@ -20,6 +20,12 @@ This network provides a strong model for expanding into more advanced routing se
 
 <br>
 
+##**Topology Diagram**
+
+![](images/Pasted%20image%2020260125065710.png)
+
+<br>
+
 ## **Project Overview**
 
 1. [Network Topology and Devices](01-network-topology-and-devices.md):
