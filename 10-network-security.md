@@ -10,7 +10,7 @@ This chapter defines the main security controls that protect the medium-sized co
 
 ## **10.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251129233315.png)
+![](images/Pasted%20image%2020260125065511.png)
 
 <br>
 
