@@ -20,7 +20,7 @@ This network provides a strong model for expanding into more advanced routing se
 
 <br>
 
-##**Topology Diagram**
+## **Topology Diagram**
 
 ![](images/Pasted%20image%2020260125065710.png)
 
