@@ -17,7 +17,7 @@ All internal segments connect to the core routing layer, which provides inter-VL
 
 ## **1.2  Topology Diagram**
 
-![](images/Pasted%20image%2020251124001241.png)
+![](images/Pasted%20image%2020260125062628.png)
 
 <br>
 
