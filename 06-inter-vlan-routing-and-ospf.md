@@ -14,7 +14,7 @@ The management network (VLAN 99) has two purposes: it provides routed access to 
 
 ## **6.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251125005147.png)
+![](images/Pasted%20image%2020260125064337.png)
 
 <br>
 
